@@ -1,0 +1,29 @@
+{
+  "name": "my-employee-tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Borishabimana773/employee-traker"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Borishabimana773/employee-traker"
+  },
+  "homepage": "https://github.com/Borishabimana773/employee-traker#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "dotenv": "^16.0.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  }
+}
